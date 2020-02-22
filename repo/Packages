@@ -1648,6 +1648,26 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.rootfs/image.png
 Name: rootfs
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.rootfs/js.json
 
+Package: com.nan.rootfs
+Version: 0.1.2-beta1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: diskdev-cmds , com.bingner.snappy , firmware (>=11.0)
+Filename: debs/com.nan.rootfs_0.1.2-beta1_iphoneos-arm.deb
+Size: 14428
+MD5sum: 0fc5462f1adbf6eb0c4024dd09c44d5e
+SHA1: 6d4e98600a75477866d9bfa290fee22c79030436
+SHA256: 013aa22c61ed4f575d6b0f49f71b91866d10fbd1f7f34b6d92c23cd6ed56903c
+Section: System
+Description: rootfs && 重建缓存
+ 恢复到未越狱状态并清空越狱 App 图标缓存
+ SSH 卸载可撤销
+ SSH 运行 urootfs 也可以撤销
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.rootfs/image.png
+Name: rootfs
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.rootfs/js.json
+
 Package: com.nan.rootfs-onlyorigfs
 Version: 0.1.2
 Architecture: iphoneos-arm
