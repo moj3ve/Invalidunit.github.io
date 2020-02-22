@@ -1629,15 +1629,15 @@ Name: iPhone XR 注销图标
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.respring.xr/js.json
 
 Package: com.nan.rootfs
-Version: 0.1.2
+Version: 0.1.3
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: diskdev-cmds , com.bingner.snappy , firmware (>=11.0)
-Filename: debs/com.nan.rootfs_0.1.2_iphoneos-arm.deb
-Size: 16894
-MD5sum: dfda10345c2c3e4ede3d3ab864b0a278
-SHA1: f790d2ac42e4c0ff5a2b01623e9499eae0312c64
-SHA256: 0a6c5158458d287b6b51e91fadcb70dc1574c4a02d1977c4054902d1ee7f8dab
+Filename: debs/com.nan.rootfs_0.1.3_iphoneos-arm.deb
+Size: 14448
+MD5sum: aa7927bb659ba83fd10a5b6b64d43b77
+SHA1: d57c42d4663893967ecf4ce393eee51d9e125925
+SHA256: 6d2170a3dbfb91707b43e14f5122a5743f56ba2b0d28f715c71274bafe7fb439
 Section: System
 Description: rootfs && 重建缓存
  恢复到未越狱状态并清空越狱 App 图标缓存
@@ -1647,46 +1647,6 @@ Author: zhaonan
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.rootfs/image.png
 Name: rootfs
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.rootfs/js.json
-
-Package: com.nan.rootfs
-Version: 0.1.2-beta1
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: diskdev-cmds , com.bingner.snappy , firmware (>=11.0)
-Filename: debs/com.nan.rootfs_0.1.2-beta1_iphoneos-arm.deb
-Size: 14428
-MD5sum: 0fc5462f1adbf6eb0c4024dd09c44d5e
-SHA1: 6d4e98600a75477866d9bfa290fee22c79030436
-SHA256: 013aa22c61ed4f575d6b0f49f71b91866d10fbd1f7f34b6d92c23cd6ed56903c
-Section: System
-Description: rootfs && 重建缓存
- 恢复到未越狱状态并清空越狱 App 图标缓存
- SSH 卸载可撤销
- SSH 运行 urootfs 也可以撤销
-Author: zhaonan
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.rootfs/image.png
-Name: rootfs
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.rootfs/js.json
-
-Package: com.nan.rootfs-onlyorigfs
-Version: 0.1.2
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: diskdev-cmds ,com.bingner.snappy ,firmware (>=11.0) ,openssh
-Filename: debs/com.nan.rootfs-onlyorigfs_0.1.2_iphoneos-arm.deb
-Size: 16898
-MD5sum: 026b909367297df27bc56b9a73b16b56
-SHA1: 5b58efb6ec70cf93ca99e36f2e57ac5533a53a98
-SHA256: d98b24d65d56b98d6a2c43d27fc9988643cc825d9531d3ba677abf036f260951
-Section: System
-Description: rootfs && 重建缓存
- 恢复到未越狱状态并清空越狱 App 图标缓存
- SSH 卸载可撤销
- SSH 运行 urootfs 也可以撤销
-Author: zhaonan
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.rootfs/image.png
-Name: rootfs (only orig-fs)
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.rootfs/js_only_origfs.json
 
 Package: com.nan.setwallpaper
 Version: 0.1.2
