@@ -57,7 +57,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.9.8-4",
+                    "text": "0.9.8-7",
                     "title": "最新版本"
                 },
                 {
@@ -67,7 +67,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2020 年 02 月 19 日",
+                    "text": "2020 年 02 月 25 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -94,13 +94,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "0.9.8-4",
+                    "title": "0.9.8-7",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "更新支持 iOS13",
+                    "markdown": "你猜",
                     "useRawFormat": true
                 }
             ]

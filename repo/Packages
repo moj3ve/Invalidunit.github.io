@@ -169,6 +169,50 @@ Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
 Name: AppStore++
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appstoreplusplus/js.json
 
+Package: com.nan.appstoreplusplus
+Version: 0.9.8-6
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Replaces: com.cokepokes.appstoreplusplus
+Provides: com.cokepokes.appstoreplusplus
+Filename: debs/com.nan.appstoreplusplus_0.9.8-6_iphoneos-arm.deb
+Size: 1338178
+MD5sum: ac9de03b720aa273996a2931fea26d2d
+SHA1: f7d7a1d8be3b8e14c8fd2e6a35069f4b9dab1a0e
+SHA256: 4418c78d414b1224ab4492fdc1e91152b4e2ca7b274f3f74b50cbd5221e00c01
+Section: Tweaks
+Priority: optional
+Description: 允许你在 iOS11-13.3.1 上的 AppStore 中降级/升级应用程序
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
+Name: AppStore++
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appstoreplusplus/js.json
+
+Package: com.nan.appstoreplusplus
+Version: 0.9.8-7
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Replaces: com.cokepokes.appstoreplusplus
+Provides: com.cokepokes.appstoreplusplus
+Filename: debs/com.nan.appstoreplusplus_0.9.8-7_iphoneos-arm.deb
+Size: 1338394
+MD5sum: b363c55aad40becd83b7a52a0414dd41
+SHA1: b5231a07326b505215b60182b33284b9a8d5116e
+SHA256: ebc843a7333309d7117bb9ba5e447056ddad7cf02369f5c6a3389dad1209c5a9
+Section: Tweaks
+Priority: optional
+Description: 允许你在 iOS11-13.3.1 上的 AppStore 中降级/升级应用程序
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
+Name: AppStore++
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appstoreplusplus/js.json
+
 Package: com.nan.awemeautoplay
 Version: 1.0-1
 Architecture: iphoneos-arm
